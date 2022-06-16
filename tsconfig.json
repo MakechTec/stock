@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "downlevelIteration": true,
+        "outDir": "./prebuild",
+        "moduleResolution": "node",
+        "module":"CommonJS"
+    },
+    "files":[
+      "./prebuild/index.ts",
+    ]
+  }
