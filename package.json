@@ -7,5 +7,22 @@
     "@babel/preset-env": "^7.18.2",
     "@makechtec/zalihui": "^1.0.4",
     "babel-loader": "^8.2.5"
-  }
+  },
+  "name": "@makechtec/stock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeldomp49/stock.git"
+  },
+  "author": "makechtec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeldomp49/stock/issues"
+  },
+  "homepage": "https://github.com/angeldomp49/stock#readme",
+  "description": ""
 }
