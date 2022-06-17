@@ -9,7 +9,7 @@
     "babel-loader": "^8.2.5"
   },
   "name": "@makechtec/stock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
