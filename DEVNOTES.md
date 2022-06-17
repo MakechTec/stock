@@ -3,3 +3,5 @@ zalihui source1=src/Stock.ts source1=src/Category.ts source1=src/Chunk.ts source
 tsc
 
 terser prebuild/index.js --output index.js
+
+npm publish --access=public
